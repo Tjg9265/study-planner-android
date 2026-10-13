@@ -11,8 +11,6 @@ dates before saving a new task.
 My goal for this project was to learn how to build a mobile app using
 Kotlin, create interactive screens, and save information locally.
 
-[Software Demo Video](PASTE_YOUR_VIDEO_LINK_HERE)
-
 # Development Environment
 
 - Android Studio
@@ -32,12 +30,13 @@ I tested the following features in the Android emulator:
 - Rejecting blank fields and invalid dates
 - Keeping a task and its completion status after reopening the app
 
+[Software Demo Video](https://byupathwayworldwideprod-my.sharepoint.com/:v:/g/personal/tgarcia2_byupathway_edu/IQB9ivDV9xd2SI5CfwCqn3t8AQev2mbgPq78mslye9I222k?e=4FmCBl)
+
 # Useful Websites
 
 - [Android Developers](https://developer.android.com/)
 - [Kotlin Documentation](https://kotlinlang.org/docs/home.html)
 - [Jetpack Compose Documentation](https://developer.android.com/develop/ui/compose/documentation)
-
 # Future Work
 
 - Add reminders for upcoming due dates.
